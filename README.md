@@ -1,2 +1,2 @@
-# Konversi-Tempatur
+# Konversi-Temperatur
 Tugas Konversi Temperatur
